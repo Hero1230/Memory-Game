@@ -13,3 +13,4 @@ Goals:
         - language selection	
     3.Add score reset
     4.Add sound effects
+    5.Add game info
