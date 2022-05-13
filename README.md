@@ -1,6 +1,7 @@
 It's my first advanced application.
 
 Game - Normal memory, but you can save your record and try to beat it.
+I don't use here scss because firstly I thought it would be small project. Unfortunately I was wrong.
 
 LIVE: https://hero1230.github.io/Memory-Game/
 
